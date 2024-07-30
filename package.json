@@ -1,0 +1,14 @@
+{
+  "name": "maddog",
+  "version": "0.0.5",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Glen Maddern <glenmaddern@gmail.com>",
+  "license": "ISC",
+  "files": ["index.js"]
+}
